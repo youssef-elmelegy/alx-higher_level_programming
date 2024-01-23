@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 0-square.py by Ehoneah Obed
+
 
 class Square:
-
+    """Does nothing"""
     pass
