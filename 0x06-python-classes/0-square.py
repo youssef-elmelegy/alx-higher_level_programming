@@ -1,11 +1,10 @@
 #!/usr/bin/python3
 """
-creat new class
-named Square
+creating a new class.
 """
 
 
 class Square:
-    """define our class"""
+    """our square class."""
 
     pass
