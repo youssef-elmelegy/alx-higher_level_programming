@@ -5,8 +5,7 @@ import urllib.request as rq
 
 
 if __name__ == __main__:
-    """ Python script that fetches https://alx-intranet.hbtn.io/status """
-
+    """Python script that fetches https://alx-intranet.hbtn.io/status"""
 
     req = rq.Request("https://alx-intranet.hbtn.io/status")
     with rq.urlopen(req) as response:
